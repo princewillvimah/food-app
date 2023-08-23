@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "class-work",
+    "slug": "class-work",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vimah.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#329477"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/vimah.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
